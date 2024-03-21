@@ -1,5 +1,5 @@
 # Projects
-<p>Hii everyone this is 1st time using GitHub &amp; these are my projects....</p>
+<p>Hii everyone this is my first project</p>
 <br>
-<p>So after learning HTML & CSS i thing why not to implement my skills to make a project.</p>
-<p>As i already said this my first project so this is still in developing phase....</p>
+<p>So after learning HTML & CSS i think why not to implement my skills to make a project.</p>
+<p>As i already said that this my first project so this is still in developing phase....</p>
